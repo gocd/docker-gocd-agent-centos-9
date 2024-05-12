@@ -2,6 +2,9 @@
 
 [GoCD agent](https://www.gocd.org) container image based on Centos 9.
 
+# This image is deprecated
+
+> **Note**: This image is now deprecated and will be sunset on **May 31, 2024**.
 
 # Issues, feedback?
 
